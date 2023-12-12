@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Properties>
+ <Property name="Identyfikacja obiektu" id="2000" index="0" type="7">67/14/1/0</Property>
+ <Property name="Ostatnio opracował: Identyfikator" id="3010" index="0" type="7"/>
+ <Property name="Ostatnio opracował: Nazwisko" id="3011" index="0" type="7"/>
+ <Property name="Ostatnio opracował: Telefon" id="3012" index="0" type="7"/>
+ <Property name="Ostatnio opracował: E-mail" id="3013" index="0" type="7"/>
+ <Property name="Struktura projektu: Przyporządkowanie funkcjonalne" id="10001" index="0" type="7"/>
+ <Property name="Struktura projektu: Oznaczenie funkcji" id="10002" index="0" type="7">&lt;1100&gt;&lt;1101&gt;&lt;1102&gt;&lt;1103&gt;&lt;1104&gt;&lt;1105&gt;&lt;1106&gt;&lt;1107&gt;&lt;1108&gt;&lt;1109&gt;</Property>
+ <Property name="Struktura projektu: Miejsce ustawienia" id="10003" index="0" type="7"/>
+ <Property name="Struktura projektu: Oznaczenie miejsca" id="10004" index="0" type="7">&lt;1200&gt;&lt;1201&gt;&lt;1202&gt;&lt;1203&gt;&lt;1204&gt;&lt;1205&gt;&lt;1206&gt;&lt;1207&gt;&lt;1208&gt;&lt;1209&gt;</Property>
+ <Property name="Struktura projektu: Numer urządzenia" id="10005" index="0" type="7">&lt;1700&gt;</Property>
+ <Property name="Struktura projektu: Rodzaj dokumentu" id="10006" index="0" type="7"/>
+ <Property name="Struktura projektu: Struktura zdefiniowana przez użytkownika" id="10007" index="0" type="7"/>
+ <Property name="Nazwa projektu (pełna nazwa)" id="10009" index="0" type="7">C:\Users\solty\Pulpit\Projekt\Projekt\Projekt_PUEIE.elk</Property>
+ <Property name="Ścieżka projektu" id="10010" index="0" type="7">C:\Users\solty\Pulpit\Projekt\Projekt</Property>
+ <Property name="Opis projektu" id="10011" index="0" type="15">??_??@Projekt stacji telemetrycznej;</Property>
+ <Property name="Przejmij nazwę strony do ID" id="10012" index="0" type="1">0</Property>
+ <Property name="Numer projektu" id="10013" index="0" type="7">DR-1</Property>
+ <Property name="Konsygnacja" id="10014" index="0" type="15">de_DE@EPLAN;en_US@EPLAN;es_ES@EPLAN;fr_FR@EPLAN;nl_NL@EPLAN;sv_SE@EPLAN;da_DK@EPLAN;ru_RU@EPLAN;zh_CN@EPLAN;pl_PL@EPLAN;pt_BR@EPLAN;cs_CZ@EPLAN;it_IT@EPLAN;hu_HU@EPLAN;pt_PT@EPLAN;ko_KR@EPLAN;ja_JP@EPLAN;tr_TR@EPLAN;ro_RO@EPLAN;zh_TW@EPLAN;</Property>
+ <Property name="Nazwa firmy" id="10015" index="0" type="7">Projekt zaliczeniowy z przedmiotu Projektowanie Układów Elektronicznych i Elektrycznych</Property>
+ <Property name="Separator struktur" id="10018" index="0" type="7">16&#9;==&#9;.&#9;=&#9;.&#9;++&#9;.&#9;+&#9;.&#9;&#9;&#9;&amp;&#9;&#9;#&#9;#&#9;-&#9;-</Property>
+ <Property name="Zagnieżdżenie identyfikatorów aparatu" id="10019" index="0" type="7">16&#9;0&#9;1&#9;1&#9;1&#9;1&#9;0&#9;1&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0&#9;0</Property>
+ <Property name="Utworzył" id="10020" index="0" type="7">EPLAN GmbH &amp; Co. KG</Property>
+ <Property name="Data utworzenia" id="10021" index="0" type="14">1656419609</Property>
+ <Property name="Ostatnio opracował: Nazwa użytkownika" id="10022" index="0" type="7">solty</Property>
+ <Property name="Data zmiany" id="10023" index="0" type="14">1702411929</Property>
+ <Property name="Ostatnie tłumaczenie na obce języki: Data" id="10024" index="0" type="14">1647517910</Property>
+ <Property name="Data dzienna" id="10027" index="0" type="14">1702411929</Property>
+ <Property name="Początek projektu" id="10028" index="0" type="14">1671292682</Property>
+ <Property name="Nadrzędne formaty struktury" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
+ <Property name="Miejsce instalacji" id="10032" index="0" type="15">??_??@Politechnika Poznańska;</Property>
+ <Property name="Środowisko specjalne" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@nincs;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;zh_TW@無;</Property>
+ <Property name="Wersja ostatniej zmiany lub aktualizacji EPLAN" id="10043" index="0" type="7">2024.0.3</Property>
+ <Property name="Numer kompilacji ostatniej zmiany lub aktualizacji EPLAN" id="10044" index="0" type="7">21408</Property>
+ <Property name="Ścieżka projektu (pełna nazwa)" id="10045" index="0" type="7">C:\Users\solty\Pulpit\Projekt\Projekt</Property>
+ <Property name="Czas utworzenia" id="10046" index="0" type="7">14:33:29</Property>
+ <Property name="Czas zmiany" id="10047" index="0" type="7">21:12:09</Property>
+ <Property name="Ostatnie tłumaczenie na obce języki: Czas" id="10048" index="0" type="7">12:51:50</Property>
+ <Property name="Format struktury dla stron" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
+ <Property name="Format struktury dla strzałek potencjałowych" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
+ <Property name="Format struktury dla szyn zbiorczych" id="10053" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Nadrzędny format struktury dla wszystkich zasobów" id="10054" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla zasobów ogólnych" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla Black Boxów" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla techniki PLC / magistrali" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Pora dnia" id="10058" index="0" type="14">1702411929</Property>
+ <Property name="Format struktury dla list zaciskowych" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla wtyczek" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla kabli" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla skrzynek strukturalnych" id="10062" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla zasobów płynów" id="10063" index="0" type="7">&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla rozdzielacza / łącznika przewodów płynów" id="10064" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="1" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="2" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="3" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="4" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="5" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="6" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="7" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="8" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="9" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="10" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="11" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="12" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="13" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="14" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="15" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="16" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="17" type="4">1</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="18" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="19" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="20" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="21" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="22" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="23" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="24" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="25" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="26" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="27" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="28" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="29" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="30" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="31" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="32" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="33" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="34" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="35" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="36" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="37" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="38" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="39" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="40" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="41" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="42" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="43" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="44" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="45" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="46" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="47" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="48" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="49" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="50" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="51" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="52" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="53" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="54" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="55" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="56" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="57" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="58" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="59" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="60" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="61" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="62" type="4">0</Property>
+ <Property name="Liczba zamrożonych stron dla każdego typu" id="10065" index="63" type="4">0</Property>
+ <Property name="Projekt: Szablon" id="10069" index="0" type="7">IEC_bas001.zw9</Property>
+ <Property name="Format nazwy dla stron" id="10070" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
+ <Property name="Format nazwy dla strzałki potencjałowej" id="10071" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
+ <Property name="Internal: Build" id="10072" index="0" type="7">21408</Property>
+ <Property name="Format nazwy dla szyb zbiorczych" id="10073" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Nadrzędny format nazwy dla wszystkich zasobów" id="10074" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla zasobu" id="10075" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla Black Boxów" id="10076" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazw dla techniki PLC / magistrali" id="10077" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla listy elementów" id="10079" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla złączek" id="10080" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla kabla" id="10081" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla skrzynek strukturalnych" id="10082" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla zasobów płynów" id="10083" index="0" type="7">&lt;10005&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla rozdzielacza / łącznika przewodów płynów" id="10084" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format struktury dla zasobów mechanicznych" id="10085" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Format nazwy dla zasobów mechanicznych" id="10086" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
+ <Property name="Internal: Highest used EPLAN build number" id="10087" index="0" type="4">21408</Property>
+ <Property name="Internal: Highest used EPLAN version" id="10088" index="0" type="7">2024.0.3.21408</Property>
+ <Property name="Kolejność struktur projektu w nazwach strony" id="10089" index="0" type="7">&lt;10001&gt;&lt;10002&gt;&lt;10003&gt;&lt;10004&gt;&lt;10006&gt;&lt;10007&gt;&lt;10005&gt;</Property>
+ <Property name="Edytuj ID w pojedynczych polach" id="10090" index="0" type="1">0</Property>
+ <Property name="Kolejność pojedynczych właściwości ID" id="10091" index="0" type="7"/>
+ <Property name="Budowa struktury drzewka w drzewku strony" id="10092" index="0" type="7">3&#9;11017&#9;0&#9;0&#9;10002&#9;0&#9;1&#9;10004&#9;0&#9;1</Property>
+ <Property name="Wyświetl oznaczenie opisowe w drzewku strony" id="10093" index="0" type="1">0</Property>
+ <Property name="Budowa struktury drzewka w nawigatorach urządzeń" id="10094" index="0" type="7">3&#9;10002&#9;0&#9;1&#9;10004&#9;0&#9;1&#9;10005&#9;0&#9;1&#9;20012&#9;0&#9;0&#9;20013&#9;0&#9;0&#9;20014&#9;0&#9;0&#9;20015&#9;0&#9;0</Property>
+ <Property name="Wyświetl oznaczenia opisowe w nawigatorach urządzeń" id="10095" index="0" type="1">0</Property>
+ <Property name="Najwyższy indeks rewizji (ze śledzenia zmian)" id="10098" index="0" type="7"/>
+ <Property name="Rewizja: Nazwa projektu pierwotnego" id="10149" index="0" type="7"/>
+ <Property name="Jednoznaczne ID projektu" id="10184" index="0" type="7">IEC_bas001@1671292679</Property>
+ <Property name="Numer licencji klucza sprzętowego" id="10185" index="0" type="7">EPLSNJRQNJ</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="1" type="4">4</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="2" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="3" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="4" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="5" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="6" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="7" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="8" type="4">1</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="9" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="10" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="11" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="12" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="13" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="14" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="15" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="16" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="17" type="4">1</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="18" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="19" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="20" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="21" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="22" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="23" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="24" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="25" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="26" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="27" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="28" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="29" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="30" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="31" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="32" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="33" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="34" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="35" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="36" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="37" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="38" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="39" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="40" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="41" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="42" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="43" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="44" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="45" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="46" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="47" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="48" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="49" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="50" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="51" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="52" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="53" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="54" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="55" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="56" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="57" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="58" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="59" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="60" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="61" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="62" type="4">0</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="63" type="4">0</Property>
+ <Property name="Utworzył: Skrót nazwiska" id="10230" index="0" type="7">EPLAN</Property>
+ <Property name="Utworzył: Tytuł" id="10231" index="0" type="7">Firma</Property>
+ <Property name="Utworzył: Nazwa 1" id="10232" index="0" type="7">Dominik Wójtowicz, Wojciech Czerwiński, Piotr Zacholski</Property>
+ <Property name="Utworzył: Ulica" id="10235" index="0" type="7">An der alten Ziegelei 2</Property>
+ <Property name="Utworzył: Kod (m-ce zamieszk.)" id="10237" index="0" type="7">40789</Property>
+ <Property name="Utworzył: M-ce zamieszk." id="10238" index="0" type="7">Poznań</Property>
+ <Property name="Utworzył: Województwo" id="10239" index="0" type="7">Polska</Property>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="1" type="14">1671622060</Property>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="2" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="3" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="4" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="5" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="6" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="7" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="8" type="14">1671625105</Property>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="9" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="10" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="11" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="12" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="13" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="14" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="15" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="16" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="17" type="14">1671494670</Property>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="18" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="19" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="20" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="21" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="22" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="23" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="24" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="25" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="26" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="27" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="28" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="29" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="30" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="31" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="32" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="33" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="34" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="35" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="36" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="37" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="38" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="39" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="40" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="41" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="42" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="43" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="44" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="45" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="46" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="47" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="48" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="49" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="50" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="51" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="52" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="53" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="54" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="55" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="56" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="57" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="58" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="59" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="60" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="61" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="62" type="14"/>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="63" type="14"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="1" type="7">12:27:40</Property>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="2" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="3" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="4" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="5" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="6" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="7" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="8" type="7">13:18:25</Property>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="9" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="10" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="11" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="12" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="13" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="14" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="15" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="16" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="17" type="7">01:04:30</Property>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="18" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="19" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="20" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="21" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="22" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="23" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="24" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="25" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="26" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="27" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="28" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="29" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="30" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="31" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="32" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="33" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="34" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="35" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="36" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="37" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="38" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="39" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="40" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="41" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="42" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="43" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="44" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="45" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="46" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="47" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="48" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="49" type="7"/>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="50" type="7"/>
+ <Property name="Ogólna liczba stron" id="10300" index="0" type="4">6</Property>
+ <Property name="Wprowadzone strony" id="10301" index="0" type="4">5</Property>
+ <Property name="Utworzone strony zestawienia" id="10302" index="0" type="4">1</Property>
+ <Property name="Status projektu" id="10303" index="0" type="7">11&#9;1&#9;Zaciski&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;2&#9;Wtyczki&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;3&#9;Kable&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;4&#9;PLC / magistrala&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;5&#9;Połączenia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;7&#9;Urządzenia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;8&#9;Języki obce&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;10&#9;Powiązania&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;11&#9;Strzałki potencjałowe&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;12&#9;Układ szafy sterowniczej 2D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;13&#9;Dane artykułu&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;14&#9;Makro&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;15&#9;Zestawienia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;16&#9;Black Boxy&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;17&#9;ID&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;18&#9;Przejęcie danych z EPLAN 5&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;19&#9;Przejęcie danych z EPLAN 21&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;20&#9;Porównanie projektów&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;21&#9;Obiekty znaków-wypełniaczy&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;22&#9;Inne&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;24&#9;Płyny&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;25&#9;Ustawienia projektu&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;26&#9;Zabudowa 3D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;27&#9;Topologia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;28&#9;Planowanie wstępne&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;29&#9;Głębokość planowania wstępnego&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;30&#9;Projekty cząstkowe&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;32&#9;Schemat wierceń&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;33&#9;Kompletny kabel&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;501&#9;Dane zasadnicze artykułu&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;999&#9;Zewnętrzny&#9;&#9;&#9;&#9;0&#9;0&#9;0</Property>
+ <Property name="Ilość obszarów zabudowy" id="10304" index="0" type="4">0</Property>
+ <Property name="Analiza termiczna: Napięcie" id="10310" index="0" type="4">5</Property>
+ <Property name="Analiza termiczna: Częstotliwość" id="10311" index="0" type="4">1</Property>
+ <Property name="Internal: Page format name" id="10400" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Interruption point format name" id="10401" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Busbar format name" id="10403" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Standard device format name" id="10405" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Device box format name" id="10406" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: PLC format name" id="10407" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Terminal strip format name" id="10409" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Plug format name" id="10410" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Cable format name" id="10411" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Fluid format name" id="10412" index="0" type="15">##_##@707/SchemeDataProject;</Property>
+ <Property name="Internal: Distributor format name" id="10413" index="0" type="15">##_##@717/SchemeDataProject;</Property>
+ <Property name="Internal: Mechanic format name" id="10414" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Page format description" id="10420" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Interruption point format description" id="10421" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Busbar format description" id="10423" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Standard device format description" id="10425" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Device box format description" id="10426" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: PLC format description" id="10427" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Terminal strip format description" id="10429" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Plug format description" id="10430" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Cable format description" id="10431" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Internal: Fluid format description" id="10432" index="0" type="15">##_##@707/SchemeDataProject;</Property>
+ <Property name="Internal: Distributor format description" id="10433" index="0" type="15">##_##@717/SchemeDataProject;</Property>
+ <Property name="Internal: Mechanic format description" id="10434" index="0" type="15">##_##@703/SchemeDataProject;</Property>
+ <Property name="Ustaw rodzaj dokumentu na początku nazwy strony" id="10450" index="0" type="1">0</Property>
+ <Property name="Język źródłowy" id="10500" index="0" type="4">25</Property>
+ <Property name="Zabezpieczenie danych: Zabezpiecz cały" id="10510" index="0" type="1">1</Property>
+ <Property name="Zabezpieczenie danych: Zabezpiecz zewn. dokumenty" id="10511" index="0" type="1">1</Property>
+ <Property name="Zabezpieczenie danych: Zabezpiecz pliki graficzne" id="10512" index="0" type="1">1</Property>
+ <Property name="Zabezpieczenie danych: Reorganizuj projekt" id="10513" index="0" type="1">0</Property>
+ <Property name="Zabezpieczenie danych: Metoda" id="10514" index="0" type="4">0</Property>
+ <Property name="Zabezpieczenie danych: Funkcja e-mail w MB" id="10516" index="0" type="6">0</Property>
+ <Property name="Zabezpieczenie danych: Katalog kopii zapasowych" id="10517" index="0" type="7">$(MD_PROJECTS)\sraka</Property>
+ <Property name="Internal: Use defined working sections" id="10530" index="0" type="1">0</Property>
+ <Property name="Właściwość bloku: Format (Strzałka potencjałowa)" id="10609" index="5" type="7">[20221&lt;20010,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;]-[20222,1&lt;4&lt;11037,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,5&gt;&gt;][20222,1&lt;4&lt;11042,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]-[20222,1&lt;20221&lt;19006,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]/[20222,1&lt;20221&lt;19005,0,0,0,0,0,0,0,0,de_DE,0,0,0,0,0,0&gt;&gt;]</Property>
+ <Property name="Właściwość bloku: Tekst zastępczy" id="10660" index="5" type="7">=│??_??@0;│??_??@E;║=│??_??@2;│??_??@H;║=│??_??@3;│??_??@P;║=│??_??@4;│??_??@C;║=│??_??@5;│??_??@L;║=│??_??@6;│??_??@V;║=│??_??@7;│??_??@F;║=│??_??@8;│??_??@K;║=│??_??@9;│??_??@G;</Property>
+ <Property name="Pole dodatkowe" id="10901" index="1" type="15">de_DE@EPLAN Beispielprojekt;en_US@EPLAN sample project;nl_NL@EPLAN voorbeeldproject;fr_FR@Exemple de projet EPLAN;es_ES@Projecto de ejemplo EPLAN;sv_SE@EPLAN exempelprojekt;da_DK@EPLAN Projekteksempel;zh_CN@EPLAN 示例项目;ru_RU@Образец проекта EPLAN;pl_PL@Przykładowy projekt EPLAN;pt_BR@Exemplo de projeto EPLAN;cs_CZ@Vzorový projekt EPLAN;it_IT@Progetto di esempio EPLAN;hu_HU@EPLAN példa projekt;pt_PT@Exemplo de projeto EPLAN;ko_KR@EPLAN 샘플 프로젝트;ja_JP@EPLAN サンプル プロジェクト;tr_TR@EPLAN örnek projesi;ro_RO@Proiect eșantion EPLAN;zh_TW@EPLAN 樣本專案;</Property>
+ <Property name="Rodzaj projektu" id="10902" index="0" type="4">1</Property>
+ <Property name="Internal: Number of repair processes of the project object" id="10904" index="0" type="4">0</Property>
+ <Property name="Format znacznika rewizji (ze śledzenia zmian)" id="19031" index="0" type="7">[14&lt;10155,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10157,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;][LF][14&lt;10158,1,0,0,0,0,0,0,0,,0,0,,0,0&gt;]</Property>
+ <Property name="Użytkownik Pole dodatkowe 1" id="40001" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField1" category="1" displaytype="9000">??_??@PUEiE - laboratorium;</Property>
+ <Property name="Użytkownik Pole dodatkowe 2" id="40002" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField2" category="1" displaytype="9000">??_??@Część elektryczna;</Property>
+ <Property name="Użytkownik Pole dodatkowe 3" id="40003" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField3" category="1" displaytype="9000">??_??@Aparatura Kontrolno-Pomiarowa i Automatyka - AKPiA;</Property>
+ <Property name="Użytkownik Pole dodatkowe 4" id="40004" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField4" category="1" displaytype="9000">??_??@24/12/2023;</Property>
+ <Property name="Użytkownik Pole dodatkowe 5" id="40005" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField5" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 6" id="40006" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField6" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 7" id="40007" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField7" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 8" id="40008" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField8" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 9" id="40009" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField9" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 10" id="40010" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField10" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 11" id="40011" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField11" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 12" id="40012" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField12" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 13" id="40013" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField13" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 14" id="40014" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField14" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 15" id="40015" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField15" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 16" id="40016" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField16" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 17" id="40017" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField17" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 18" id="40018" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField18" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 19" id="40019" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField19" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 20" id="40020" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField20" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 21" id="40021" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField21" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 22" id="40022" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField22" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 23" id="40023" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField23" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 24" id="40024" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField24" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 25" id="40025" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField25" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 26" id="40026" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField26" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 27" id="40027" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField27" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 28" id="40028" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField28" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 29" id="40029" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField29" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 30" id="40030" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField30" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 31" id="40031" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField31" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 32" id="40032" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField32" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 33" id="40033" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField33" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 34" id="40034" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField34" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 35" id="40035" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField35" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 36" id="40036" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField36" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 37" id="40037" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField37" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 38" id="40038" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField38" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 39" id="40039" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField39" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 40" id="40040" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField40" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 41" id="40041" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField41" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 42" id="40042" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField42" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 43" id="40043" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField43" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 44" id="40044" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField44" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 45" id="40045" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField45" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 46" id="40046" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField46" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 47" id="40047" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField47" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 48" id="40048" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField48" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 49" id="40049" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField49" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 50" id="40050" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField50" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 51" id="40051" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField51" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 52" id="40052" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField52" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 53" id="40053" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField53" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 54" id="40054" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField54" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 55" id="40055" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField55" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 56" id="40056" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField56" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 57" id="40057" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField57" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 58" id="40058" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField58" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 59" id="40059" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField59" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 60" id="40060" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField60" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 61" id="40061" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField61" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 62" id="40062" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField62" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 63" id="40063" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField63" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 64" id="40064" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField64" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 65" id="40065" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField65" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 66" id="40066" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField66" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 67" id="40067" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField67" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 68" id="40068" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField68" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 69" id="40069" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField69" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 70" id="40070" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField70" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 71" id="40071" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField71" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 72" id="40072" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField72" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 73" id="40073" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField73" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 74" id="40074" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField74" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 75" id="40075" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField75" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 76" id="40076" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField76" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 77" id="40077" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField77" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 78" id="40078" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField78" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 79" id="40079" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField79" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 80" id="40080" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField80" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 81" id="40081" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField81" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 82" id="40082" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField82" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 83" id="40083" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField83" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 84" id="40084" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField84" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 85" id="40085" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField85" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 86" id="40086" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField86" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 87" id="40087" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField87" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 88" id="40088" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField88" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 89" id="40089" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField89" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 90" id="40090" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField90" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 91" id="40091" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField91" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 92" id="40092" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField92" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 93" id="40093" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField93" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 94" id="40094" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField94" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 95" id="40095" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField95" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 96" id="40096" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField96" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 97" id="40097" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField97" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 98" id="40098" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField98" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 99" id="40099" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField99" category="1" displaytype="9000"/>
+ <Property name="Użytkownik Pole dodatkowe 100" id="40100" index="0" type="15" identname="EPLAN.Project.UserSupplementaryField100" category="1" displaytype="9000"/>
+</Properties>
